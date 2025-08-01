@@ -5,7 +5,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Orange Evolution</h3>
+          <h3>Recife Mundo Mix</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/orange-evolution.gif"
@@ -42,9 +42,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+             Desenvolvimento de um prjeto real de um festival cultural de recife.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS </p>
         </div>
         <div class="card">
           <h3>Desafio 21 dias de código</h3>
