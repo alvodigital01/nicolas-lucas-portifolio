@@ -8,7 +8,7 @@ function projetos(section) {
           <h3>Recife Mundo Mix</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/RECIFEMUNDO.PNG"
+              src="./assets/images/projects/recifegif.gif"
               alt="GIF do projeto Orange Evolution."
             />
             <div class="buttons">
@@ -43,7 +43,7 @@ function projetos(section) {
           <h3>Agência de marketing N1</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/SEJAN1.PNG"
+              src="./assets/images/projects/sejan1.gif"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
@@ -78,7 +78,7 @@ function projetos(section) {
         <div class="card">
           <h3>Anderson Lima - Links</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/ANDERSONLIMA.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/iphonemiami.gif" alt="Imagem do projeto." />
             <div class="buttons">
                   <path fill="none" d="M0 0h24v24H0z" />
                   <path
@@ -108,7 +108,7 @@ function projetos(section) {
         <div class="card">
           <h3>Calculdora de juros personalizada</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/CALCULADORADEJUROS.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/calculadorajuros.gif" alt="Imagem do projeto." />
             <div class="buttons">
                   <path fill="none" d="M0 0h24v24H0z" />
                   <path
@@ -138,7 +138,7 @@ function projetos(section) {
         <div class="card">
           <h3>Canta Nordeste</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/CANTANORDESTE.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/cantanordeste.gif" alt="Imagem do projeto." />
             <div class="buttons">
                   <path fill="none" d="M0 0h24v24H0z" />
                   <path
@@ -168,7 +168,7 @@ function projetos(section) {
         <div class="card">
           <h3>Rocha Decor Estofados</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/ROCHADECORESTOFADOS.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/rochadecorestofados.gif" alt="Imagem do projeto." />
             <div class="buttons">
                   <path fill="none" d="M0 0h24v24H0z" />
                   <path
