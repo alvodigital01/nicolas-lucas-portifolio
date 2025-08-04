@@ -55,7 +55,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="#projects" id="desafio" title="Ver Projetos">
+              <a href="https://sejan1.com.br/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
