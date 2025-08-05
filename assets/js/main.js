@@ -1,4 +1,4 @@
-import { desafios } from "./desafios.js";
+
 import { projetos } from "./projetos.js";
 
 const navigation = document.querySelector("#navigation");
@@ -14,13 +14,6 @@ const vidro = document.querySelector("#vidro");
 window.addEventListener("load", function begin() {
   projetos(projectsSection);
   const desafioBtn = document.querySelector("#desafio");
-
-  desafioBtn.addEventListener("click", () => {
-    desafios(projectsSection);
-    document
-      .querySelector("#backToProjectsBtn")
-      .addEventListener("click", begin);
-  });
 });
 
 window.addEventListener("scroll", onScroll);
