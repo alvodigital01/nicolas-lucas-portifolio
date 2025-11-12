@@ -1,6 +1,6 @@
 function projetos(section) {
   section.innerHTML = `<header>
-      <h2>Projetos</h2>
+      <h2>Sites Entregues</h2>
     </header>
     <div class="content">
       <div class="cards">
@@ -37,7 +37,7 @@ function projetos(section) {
           <p>
        Criação de um site para um festival cultural de Recife, destacando identidade visual, programação e atrações.
           </p>
-          <p>HTML - CSS - JS </p>
+        
         </div>
         <div class="card">
           <h3>sejaN1 - Agência de marketing</h3>
@@ -73,7 +73,7 @@ function projetos(section) {
           <p>
           Site institucional criado para uma agência de marketing, com ênfase em design moderno e usabilidade.
           </p>
-          <p>HTML - CSS - JS</p>
+         
         </div>
         <div class="card">
           <h3>Anderson Lima - Links</h3>
@@ -133,7 +133,7 @@ function projetos(section) {
             </div>
           </div>
           <p>Uma calculadora de juros criada para auxiliar usuários a simular juros dos produtos de forma fácil e rápida.</p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
         <div class="card">
           <h3>Canta Nordeste - Festival</h3>
@@ -163,7 +163,7 @@ function projetos(section) {
             </div>
           </div>
           <p>Criação de um site para o festival Canta Nordeste, com foco em experiência do usuário e divulgação cultural.</p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
         <div class="card">
           <h3>Rocha Decor Estofados</h3>
@@ -195,7 +195,7 @@ function projetos(section) {
           <p>
 Site institucional para tapeçaria, destacando serviços, produtos e facilitando o contato com clientes.
           </p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
         <div class="card">
           <h3>Modelo Loja de Eletrônicos</h3>
@@ -225,7 +225,7 @@ Site institucional para tapeçaria, destacando serviços, produtos e facilitando
             </div>
           </div>
           <p>Criação de uma landing page para loja de eletrônicos, com foco em conversão, apresentação de produtos.</p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
 
         <div class="card">
@@ -256,7 +256,7 @@ Site institucional para tapeçaria, destacando serviços, produtos e facilitando
             </div>
           </div>
           <p>Criação de um site para ONG, com foco em  causas sociais, engajar visitantes e facilitar doações e contato.</p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
 
         <div class="card">
@@ -287,41 +287,11 @@ Site institucional para tapeçaria, destacando serviços, produtos e facilitando
             </div>
           </div>
           <p>Site institucional, para uma marmoraria com foco em apresentar os serviços,e facilitar o contato com os clientes.</p>
-          <p>HTML - CSS - JS</p>
+          
         </div>
 
         <div></div>
-        <div class="card">
-          <h3>Em breve...</h3>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            width="24"
-            height="24"
-          >
-            <path fill="none" d="M0 0h24v24H0z" />
-            <path
-              d="M5 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm14 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-7 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
-              fill="rgba(255,255,255,1)"
-            />
-          </svg>
-          <p>
-            Aprendizado constante! <br />
-            Em breve muitos outros projetos.
-          </p>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            width="24"
-            height="24"
-          >
-            <path fill="none" d="M0 0H24V24H0z" />
-            <path
-              d="M21 3v2c0 9.627-5.373 14-12 14H5.243C5.08 19.912 5 20.907 5 22H3c0-1.363.116-2.6.346-3.732C3.116 16.974 3 15.218 3 13 3 7.477 7.477 3 13 3c2 0 4 1 8 0zm-8 2c-4.418 0-8 3.582-8 8 0 .362.003.711.01 1.046 1.254-1.978 3.091-3.541 5.494-4.914l.992 1.736C8.641 12.5 6.747 14.354 5.776 17H9c6.015 0 9.871-3.973 9.997-11.612-1.372.133-2.647.048-4.22-.188C13.627 5.027 13.401 5 13 5z"
-              fill="rgba(255,255,255,1)"
-            />
-          </svg>
-        </div>
+       
         
         <div></div>
       </div>
